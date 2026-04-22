@@ -8,7 +8,7 @@ A Ridge Regression model predicts expected wins from 17 offensive and defensive 
 
 - Pulls live data from the NBA API for every team and season
 - Walk-forward model trained only on past seasons (no data leakage)
-- **Interactive dropdown menus** (powered by `ipywidgets`) to explore:
+- **Interactive dropdown menus** (powered by `ipywidgets`) to explore (which are not available in this github format) :
   - 30-year performance charts for any franchise
   - Coaching history by team
   - Season-by-season career breakdowns for any coach
