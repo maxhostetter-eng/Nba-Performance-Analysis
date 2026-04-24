@@ -1,8 +1,8 @@
 # NBA Team Performance Analysis
 
-Uses 30 years of NBA team data (1996–2026) to answer: **do teams win as many games as their stats say they should?**
+Uses 30 years of NBA team data (1996–2026) to answer: **do teams win as many games as their team stats say they should?**
 
-A Ridge Regression model predicts expected wins from 17 offensive and defensive stats. The gap between actual and predicted wins — the **residual** — reveals which teams and coaches consistently over- or underperformed their talent.
+A Ridge Regression model predicts expected wins from 17 offensive and defensive team stats. The gap between actual and predicted wins — the **residual** — reveals which teams and coaches consistently over- or underperformed their talent.
 
 ## Features
 
