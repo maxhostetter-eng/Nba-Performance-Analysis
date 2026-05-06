@@ -20,3 +20,8 @@ A Ridge Regression model predicts expected wins from 17 offensive and defensive 
 `nba_api` · `pandas` · `scikit-learn` · `matplotlib` · `ipywidgets`
 
 Open the notebook in Jupyter and run all cells. Use the dropdown menus to explore different teams and coaches interactively — no code changes needed.
+
+## Here's the first chart from this notebook
+
+<img width="1391" height="980" alt="Screenshot 2026-05-05 223929" src="https://github.com/user-attachments/assets/407aec2a-3fc1-4428-ab70-f4444f1566d8" />
+
